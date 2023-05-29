@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\bin\Debug\net6.0\PerseptronXOR.exe
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\bin\Debug\net6.0\PerseptronXOR.deps.json
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\bin\Debug\net6.0\PerseptronXOR.runtimeconfig.json
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\bin\Debug\net6.0\PerseptronXOR.dll
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\bin\Debug\net6.0\PerseptronXOR.pdb
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.dll
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\refint\PerseptronXOR.dll
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.pdb
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\PerseptronXOR.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\PerseptronXOR\PerseptronXOR\obj\Debug\net6.0\ref\PerseptronXOR.dll

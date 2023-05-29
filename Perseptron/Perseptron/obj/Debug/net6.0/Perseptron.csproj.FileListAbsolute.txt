@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\bin\Debug\net6.0\Perseptron.exe
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\bin\Debug\net6.0\Perseptron.deps.json
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\bin\Debug\net6.0\Perseptron.runtimeconfig.json
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\bin\Debug\net6.0\Perseptron.dll
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\bin\Debug\net6.0\Perseptron.pdb
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.dll
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\refint\Perseptron.dll
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.pdb
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\Perseptron.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\Perseptron\Perseptron\obj\Debug\net6.0\ref\Perseptron.dll

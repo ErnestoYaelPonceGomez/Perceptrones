@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNOR", "XNOR\XNOR.csproj", "{5BC4C4B6-4601-4173-BA8E-606474150AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC4C4B6-4601-4173-BA8E-606474150AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC4C4B6-4601-4173-BA8E-606474150AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC4C4B6-4601-4173-BA8E-606474150AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC4C4B6-4601-4173-BA8E-606474150AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8275EAFA-3B40-4228-B1EC-51EC979B3110}
+	EndGlobalSection
+EndGlobal

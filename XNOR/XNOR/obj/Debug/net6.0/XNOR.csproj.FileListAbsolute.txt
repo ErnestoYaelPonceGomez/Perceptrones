@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\XNOR\XNOR\bin\Debug\net6.0\XNOR.exe
+C:\Users\Ernesto\source\repos\XNOR\XNOR\bin\Debug\net6.0\XNOR.deps.json
+C:\Users\Ernesto\source\repos\XNOR\XNOR\bin\Debug\net6.0\XNOR.runtimeconfig.json
+C:\Users\Ernesto\source\repos\XNOR\XNOR\bin\Debug\net6.0\XNOR.dll
+C:\Users\Ernesto\source\repos\XNOR\XNOR\bin\Debug\net6.0\XNOR.pdb
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.dll
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\refint\XNOR.dll
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.pdb
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\XNOR.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\XNOR\XNOR\obj\Debug\net6.0\ref\XNOR.dll

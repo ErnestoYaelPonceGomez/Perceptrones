@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\bin\Debug\net6.0\PresceptronOR.exe
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\bin\Debug\net6.0\PresceptronOR.deps.json
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\bin\Debug\net6.0\PresceptronOR.runtimeconfig.json
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\bin\Debug\net6.0\PresceptronOR.dll
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\bin\Debug\net6.0\PresceptronOR.pdb
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.dll
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\refint\PresceptronOR.dll
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.pdb
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\PresceptronOR.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\PresceptronOR\PresceptronOR\obj\Debug\net6.0\ref\PresceptronOR.dll
